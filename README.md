@@ -4,3 +4,4 @@ Este é o primeiro repositório, por mais que não tenha objetivos além da prat
 Só deixando registrado mesmo.
 
 Lembrei do comando: git commit
+Lembrei do comando: git status
