@@ -6,5 +6,6 @@ Só deixando registrado mesmo.
 
 Lembrei do comando: git commit
 Lembrei do comando: git status
+Lembrei do comando: git push
 
 Atividade concluída.
